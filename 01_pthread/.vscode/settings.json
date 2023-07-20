@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "*.cpp": "cpp",
-        "stdint.h": "c",
-        "unistd.h": "c"
+        "unistd.h": "c",
+        "float.h": "c",
+        "fenv.h": "c"
     }
 }
