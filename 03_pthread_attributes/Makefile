@@ -1,5 +1,5 @@
 BIN_NAME = pthread_attr_demo
-CC		 = clang
+CC		 = gcc
 C_FLAGS  = -O3
 L_FLAGS  = -lpthread -lm
 C_SRC 	 = pthread_attr_demo.c
